@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/trang_chu"
+        android:icon="@mipmap/trang_chu"
+        android:title="Trang chủ" />
+
+    <item android:id="@+id/thoi_su"
+        android:icon="@mipmap/thoi_su"
+        android:title="Thời sự"/>
+    <item android:id="@+id/the_gioi"
+        android:icon="@mipmap/the_gioi"
+        android:title="Thế giới"/>
+    <item android:id="@+id/kinh_doanh"
+        android:icon="@mipmap/kinh_doanh"
+        android:title="Kinh doanh"/>
+    <item android:id="@+id/giai_tri"
+        android:icon="@mipmap/giai_tri"
+        android:title="Giải trí"
+        android:visible="true" />
+    <item android:id="@+id/the_thao"
+        android:icon="@mipmap/the_thao"
+        android:title="Thể thao"/>
+    <item android:id="@+id/phap_luat"
+        android:icon="@mipmap/phap_luat"
+        android:title="Pháp luật"/>
+    <item android:id="@+id/giao_duc"
+        android:icon="@mipmap/giao_duc"
+        android:title="Giáo dục"/>
+    <item android:id="@+id/suc_khoe"
+        android:icon="@mipmap/suc_khoe"
+        android:title="Sức khoẻ"/>
+    <item android:id="@+id/gia_dinh"
+        android:icon="@mipmap/gia_dinh"
+        android:title="Gia đình"/>
+    <item android:id="@+id/du_lich"
+        android:icon="@mipmap/du_lich"
+        android:title="Du lịch"/>
+    <item android:id="@+id/khoa_hoc"
+        android:icon="@mipmap/khoa_hoc"
+        android:title="Khoa học"/>
+    <item android:id="@+id/so_hoa"
+        android:icon="@mipmap/so_hoa"
+        android:title="Số hoá"/>
+    <item android:id="@+id/xe"
+        android:icon="@mipmap/xe"
+        android:title="Xe"/>
+    <item android:id="@+id/cong_dong"
+        android:icon="@mipmap/cong_dong"
+        android:title="Cộng đồng"/>
+
+</menu>
